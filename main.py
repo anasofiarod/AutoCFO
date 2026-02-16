@@ -5,7 +5,6 @@ from pathlib import Path
 from src.engine import FinancialEngine
 
 def launch_dashboard() -> None:
-    """Helper to run the Streamlit app"""
     print("[INFO] Launching Web Dashboard...")
     script_path = Path("src") / "dashboard.py"
     subprocess.run([sys.executable, "-m", "streamlit", "run", str(script_path)])

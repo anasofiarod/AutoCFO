@@ -95,3 +95,7 @@ clients/
 !clients/demo_client/
 examples/
 !examples/demo_client/
+
+# Build Artifacts
+AutoCFOApp/
+Final_App_v1/
