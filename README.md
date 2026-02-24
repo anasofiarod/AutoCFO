@@ -56,7 +56,7 @@ AutoCFO/
     pip install -r requirements.txt
     ```
 
-## 🛠️ Usage
+## Usage
 
 ### 1. Run the Web Dashboard
 Launch the interactive dashboard to view financial data in your browser.
