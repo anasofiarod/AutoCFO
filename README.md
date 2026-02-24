@@ -1,10 +1,10 @@
-# AutoCFO: Automated Financial Reporting Engine 🚀
+# AutoCFO: Automated Financial Reporting Engine
 
 **AutoCFO** is a powerful financial automation tool designed to streamline the process of categorizing transactions, generating professional Excel reports, and visualizing financial health via an interactive dashboard.
 
 Turn raw transaction data into executive-level financial insights in seconds.
 
-## ✨ Features
+## Features
 
 -   **Multi-Client Support**: Dynamically manage and switch between multiple client portfolios.
 -   **Automated Financial Engine**: Processes raw bank CSV exports, cleans data, and categorizes expenses automatically based on configurable rules.
@@ -31,7 +31,6 @@ AutoCFO/
 └── requirements.txt     # Python dependencies
 ```
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -84,7 +83,7 @@ Generate a report for the included demo data:
 ./.venv/bin/python main.py --demo
 ```
 
-## 📊 Data Format
+## Data Format
 Input `data.csv` files should have the following columns (headers are configurable in `src/engine.py` if needed):
 -   `Date`: Transaction date (e.g., YYYY-MM-DD)
 -   `Memo` / `Description`: Transaction details
