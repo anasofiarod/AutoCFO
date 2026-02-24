@@ -18,7 +18,7 @@ Turn raw transaction data into executive-level financial insights in seconds.
     -   Visualize Cash Flow Trends and Expense Composition.
     -   View real-time KPIs.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AutoCFO/
